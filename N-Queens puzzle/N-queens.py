@@ -1,5 +1,5 @@
 # nrooks.py : Solve the N-Rooks/N-Queens problem!
-# Prerna, August 2016(Modified Dr. Crandall's code)
+# Prerna, August 2016
 #
 # The N-rooks problem is: Given an empty NxN chessboard, place N rooks on the board so that no rooks
 # can take any other, i.e. such that no two rooks share the same row or column.
